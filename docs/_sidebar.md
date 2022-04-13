@@ -5,16 +5,10 @@
 
 - Admin Dashboard
 
-  <!-- - [Login](login.md)
-  - [Dashboard](dashboard.md)
-  - [Pharmacy](pharmacy.md)
-  - [Product](product.md)
-  - [Post](post.md)
-  - [Product Package](product-package.md)
-  - [User](user.md)
-  - [Order](order.md)
-  - [Variable](variable.md)
-  - [Transaction](transaction.md) -->
+  - [Login](login.md)
+  - [Dashboard](admin_dashboard.md)
+  - [League setup](league.md)
+  - [Season setup](season.md)
 
 - User Site
 
