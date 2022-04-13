@@ -18,5 +18,8 @@
 - Then admin can select a tem to assign the devision on the team.
 ![Devisio](/screenshots/assign_team_devision.png)
 
+# Delete season
+- from the season list admin can delete season by clicking on delete icon. 
+![season](/screenshots/season_setup.png)
 
 
