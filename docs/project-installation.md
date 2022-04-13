@@ -10,5 +10,4 @@ In .env file add database name and user name(root)
 php artisan migrate
 php artisan db:seed
 php artisan serve
-
 ```
