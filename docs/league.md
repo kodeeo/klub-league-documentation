@@ -1,11 +1,11 @@
 # League setup
 
-- Admin need to setup the league first. By clicking on League setup admin can see all created leagues.
+- Admin needs to setup the league first. By clicking on League setup admin can see all created leagues.
 ![league list](/screenshots/league_setup.png)
 
 # Add new league
-- By clicking on New League button admin will redirect to the league add form.
-- By fill up the form admin can add a league.
+- By clicking on New League button admin will be redirected to the "league add form".
+- By filling up the form admin can add a league.
 ![league list](/screenshots/add_league.png)
 
 # Edit league
@@ -13,6 +13,6 @@
 ![league list](/screenshots/edit_league.png)
 
 # Delete league
-- from the league list admin can delete league by clicking on delete icon
+- from the league list admin can delete league by clicking on delete icon.
 ![league list](/screenshots/league_setup.png)
 

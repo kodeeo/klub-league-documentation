@@ -10,9 +10,11 @@
   - [Venue setup](venue.md)
   - [League setup](league.md)
   - [Season setup](season.md)
+  - [Team](team.md)
+  - [Change Password](admin_change_password.md)
   
 
 
-- User Site
+- Team manager 
 
 

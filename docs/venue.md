@@ -7,7 +7,7 @@
 ![venue add](/screenshots/add_venue.png)
 
 # Edit Venue
-- Admin can edit the vanue.
+- Admin can edit the venue.
 ![venue edit](/screenshots/edit_venue.png)
 
 # Delete Venue
