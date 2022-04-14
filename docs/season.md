@@ -13,13 +13,13 @@
 # Assing team
 - Admin can add a team to a season by clicking on "Team assign" button.
 - Admin needs to setup the divisions for a team and submit the form.
-![Devisio](/screenshots/devision_setup.png)
+![Assign team](/screenshots/devision_setup.png)
 
 - Then admin can select a team to assign to the division.
-![Devisio](/screenshots/assign_team_devision.png)
+![assign team](/screenshots/assign_team_devision.png)
 
 # Delete season
 - From the season list admin can delete season by clicking on delete icon. 
-![season](/screenshots/season_setup.png)
+![delete season](/screenshots/season_setup.png)
 
 

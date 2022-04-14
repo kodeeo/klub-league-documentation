@@ -11,6 +11,7 @@
   - [League setup](league.md)
   - [Season setup](season.md)
   - [Team](team.md)
+  - [Player](player.md)
   - [Change Password](admin_change_password.md)
   
 
