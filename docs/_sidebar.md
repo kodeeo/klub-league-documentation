@@ -1,6 +1,6 @@
 - Getting started
 
-  - [Project Installation](project-installation.md)
+  - [Klub-league](project-installation.md)
 
 
 - Admin Dashboard
@@ -14,6 +14,7 @@
   - [Player](player.md)
   - [User](user.md)
   - [Manager](manager.md)
+  - [Fixture](fixture.md)
   - [Change Password](admin_change_password.md)
   
   
