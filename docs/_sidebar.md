@@ -12,6 +12,7 @@
   - [Season setup](season.md)
   - [Team](team.md)
   - [Player](player.md)
+  - [Transactions](transactions.md)
   - [Role](role.md)
   - [User](user.md)
   - [Manager](manager.md)
