@@ -24,5 +24,8 @@
   - [Fixture](fixture.md)
   - [Match Result](match.md)
   - [Change Password](admin_change_password.md)
-  
 
+
+- User Site
+
+  - [Club Directory](club-directory.md)
