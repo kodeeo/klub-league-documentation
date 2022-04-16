@@ -26,5 +26,8 @@
   - [Login](team_login.md)
   - [My team](my_team.md)
   - [Player](team_player.md)
+  - [Player request](player_request.md)
+  - [Change password](change_password.md)
+
 
 
