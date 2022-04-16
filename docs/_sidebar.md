@@ -23,6 +23,7 @@
 
 - Team manager 
   - [Login](team_login.md)
+  - [My team](my_team.md)
   - [Player](team_player.md)
 
 
