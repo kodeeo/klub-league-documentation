@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f712d6bc-a7d5-4ed1-b5bf-97f02d63f00d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/fixture.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/my_team.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/role.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/screenshots/Manager_create_player1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/screenshots/Manager_create_player2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/screenshots/manager_player_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/screenshots/my_team.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/screenshots/role_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/screenshots/role_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/screenshots/role_update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/screenshots/transaction_filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/screenshots/transactions_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/team_login.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/team_player.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/transactions.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/season.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/season.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/team.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/team.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fixture.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/fixture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649843482446</updated>
       <workItem from="1649843483875" duration="32000" />
-      <workItem from="1650080860486" duration="7377000" />
+      <workItem from="1650080860486" duration="7719000" />
     </task>
     <servers />
   </component>

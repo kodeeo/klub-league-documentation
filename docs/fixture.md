@@ -8,4 +8,5 @@
 
 - Admin can add fixture in this section. When you select season division then automatically added home 
   team and away team then select venue,time and date for fixture setup.
+
   ![fixture create](/screenshots/fixture-create.png)
