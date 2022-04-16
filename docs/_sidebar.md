@@ -12,6 +12,8 @@
   - [Season setup](season.md)
   - [Team](team.md)
   - [Player](player.md)
+  - [Transactions](transactions.md)
+  - [Role](role.md)
   - [User](user.md)
   - [Manager](manager.md)
   - [Fixture](fixture.md)
@@ -21,5 +23,8 @@
 
 
 - Team manager 
+  - [Login](team_login.md)
+  - [My team](my_team.md)
+  - [Player](team_player.md)
 
 
