@@ -29,3 +29,6 @@
 - User Site
 
   - [Club Directory](club-directory.md)
+  - [Fixture](user_fixture.md)
+  - [Match result](match_result.md)
+  - [Point table](point_table.md)
