@@ -11,8 +11,8 @@
 ![player profile](/screenshots/player_profile.png)
 
 - Manager can request for transfer of a player which player is not in his own team. 
-  After player transfer request sent an emails get manger A and manager B both means 
-  in which manager request to which manager for player transfer that is described in 
+  After player transfer request an email will sent to both manager, means 
+  which manager request to which manager for player transfer that is described in 
   that mail.
 
 ![player list](/screenshots/manager_player_list.png)
