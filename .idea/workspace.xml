@@ -5,9 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f712d6bc-a7d5-4ed1-b5bf-97f02d63f00d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/club-directory.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/admin_dashboard.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/admin_dashboard.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/my_team.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/my_team.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/player.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/player.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/add_league.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/add_league.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/add_venue.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/add_venue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/admin_add_user.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/admin_add_user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/admin_dashboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/admin_player_edit1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/admin_player_edit2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/admin_players.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/admin_players.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/assign_team_devision.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/assign_team_devision.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/devision_setup.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/devision_setup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/edit_league.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/edit_league.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/edit_venue.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/edit_venue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/league_setup.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/league_setup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/manager_list.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/manager_list.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/manager_player_list.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/manager_player_list.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/my_team.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/my_team.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/player_approved.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/player_approved.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/player_profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/player_profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/role_add.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/role_add.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/role_list.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/role_list.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/role_update.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/role_update.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/season_create.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/season_create.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/season_edit.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/season_edit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/season_setup.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/season_setup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/team.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/team.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/team_add_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/team_add_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/user_edit.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/user_edit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/user_list.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/user_list.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/venue_list.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/venue_list.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshots/waiting_players.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/screenshots/waiting_players.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/season.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/season.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/team.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/team.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/team_login.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/team_login.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/team_player.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/team_player.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/user.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,17 +64,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fashion" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/halima/sites/pharmanic-backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,6 +85,7 @@
       <updated>1649843482446</updated>
       <workItem from="1649843483875" duration="32000" />
       <workItem from="1650080860486" duration="12199000" />
+      <workItem from="1650429654089" duration="6305000" />
     </task>
     <servers />
   </component>

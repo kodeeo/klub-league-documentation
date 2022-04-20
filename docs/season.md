@@ -16,8 +16,8 @@
 ![Add season](/screenshots/season_edit.png)
 
 # Assign team
-- Admin can add a team to a season by clicking on "Team assign" button.
-- Admin needs to set up the divisions for a team and submit the form.
+- After team registration admin can add that team to a season by clicking on "Team assign" button.
+- Admin needs to set up the divisions for a team then assign the team in that division.
 ![Assign team](/screenshots/devision_setup.png)
 
   - Then admin can select a team to assign to the division.Before assign the team please check
