@@ -10,8 +10,8 @@
     mandatory for team registration. After successfully register a team,the team manager get an email 
     notification where admin provided a temporary email and password for login in admin panel.
 
-![team](/screenshots/team_add_1.png)
-![team](/screenshots/team_add_2.png)
+![team](/screenshots/team_add.png)
+
 
 # Team Edit
 

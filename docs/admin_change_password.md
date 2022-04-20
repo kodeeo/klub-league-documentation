@@ -1,4 +1,4 @@
 # Change password
 
 - Admin can change password by giving the current password and new password;
-![change password](/screenshots/admin_change_password.png)
+![change password](/screenshots/manager_change_password.png)

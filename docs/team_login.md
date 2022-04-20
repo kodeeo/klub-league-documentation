@@ -1,4 +1,4 @@
 # Team login 
 
-- Team Manager can login to the accoutn after getting registration confirmation. Account password will sent through email.
+- Team Manager can login to the account after getting confirmation. Account credential will send through an email.
 ![Login](/screenshots/login.png)

@@ -7,10 +7,11 @@
 ![player profile](/screenshots/player_profile.png)
 
 - Admin can edit information of a player. 
-![edit player profile](/screenshots/admin_player_edit1.png)
-![edit player profile](/screenshots/admin_player_edit2.png)
+![edit player profile](/screenshots/admin_player_edit.png)
 
-- Admin can view waiting list of players by clicking on "waiting list" button.
+
+- Admin can view waiting list of players by clicking on "waiting list" button. Here Admin can confirm player application or
+  Player can directly confirm through the email.
 ![waiting player list](/screenshots/waiting_players.png)
 
 - If a player confirm that he/she is under that team, then admin can approve/disapprove the request.    
