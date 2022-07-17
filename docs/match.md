@@ -4,8 +4,10 @@
   edit button.You will see the all match result by clicking all match result section and today's match
   result see in Today's Match section.
 
-![manager list](/screenshots/match-result.png)
+![result list](/screenshots/match-result.png)
 
 # Result View
 
 - In this section admin can view the match result details.
+
+![result view](/screenshots/result-view.png)
